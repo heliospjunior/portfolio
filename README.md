@@ -33,10 +33,12 @@ Se quiser trocar ideia, mandar sugestões ou colaborações, será um prazer!
 
 ---
 
-### Projetos
+## Projetos
 --
-## PowerBi
+
+### PowerBi
 --
+
 
 
 

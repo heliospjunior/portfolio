@@ -30,3 +30,13 @@ Sou Hélio Paiva Júnior,
 
 🧠 Estou em constante evolução, buscando transformar dados em valor para negócios.  
 Se quiser trocar ideia, mandar sugestões ou colaborações, será um prazer!
+
+--- 
+
+### Projetos
+--
+## PowerBi
+--
+
+
+

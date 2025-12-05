@@ -39,6 +39,8 @@ Se quiser trocar ideia, mandar sugestões ou colaborações, será um prazer!
 ### PowerBi
 --
 
+[SQL](https://app.powerbi.com/reportEmbed?reportId=2aa4eb32-b69e-44ab-b0b4-df4fd0e22f57&autoAuth=true&ctid=e87fbbea-1e67-40e4-a760-4315d00de9a1) 
+
 
 
 

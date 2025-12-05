@@ -39,7 +39,10 @@ Se quiser trocar ideia, mandar sugestões ou colaborações, será um prazer!
 ### PowerBi
 --
 
-![PowerBI](https://app.powerbi.com/reportEmbed?reportId=2aa4eb32-b69e-44ab-b0b4-df4fd0e22f57&autoAuth=true&ctid=e87fbbea-1e67-40e4-a760-4315d00de9a1)
+<img width="1553" height="866" alt="image" src="https://github.com/user-attachments/assets/8ae757c4-8fde-48eb-8d7a-c84edd8da3d0" />
+
+
+### Python
 
 
 

@@ -42,6 +42,15 @@ Se quiser trocar ideia, mandar sugestões ou colaborações, será um prazer!
 <img width="1553" height="866" alt="image" src="https://github.com/user-attachments/assets/8ae757c4-8fde-48eb-8d7a-c84edd8da3d0" />
 
 
+### SQL
+
+Desenvolvi uma análise completa para identificar quais características impactam o preço de laptops utilizando SQL. O projeto explorou algumas variáveis a principio, como marca e memória, e posteriomente análises envolvendo especificações técnicas (memória, processador, armazenamento), softwares incluídos e acessórios adicionais. 
+
+A partir de consultas SQL, estruturei e interpretei os dados para entender a relação entre atributos do produto e variações de preço, gerando insights claros sobre os principais drivers de custos no mercado de laptops.
+
+
+
+
 ### Python
 
 [Projeto Superstore Sales](https://github.com/heliospjunior/ETLPython/blob/main/README.md)

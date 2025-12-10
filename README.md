@@ -43,7 +43,7 @@ Se quiser trocar ideia, mandar sugestões ou colaborações, será um prazer!
 
 
 
-
+---
 ### SQL
 
 Desenvolvi uma análise completa para identificar quais características impactam o preço de laptops utilizando SQL. O projeto explorou algumas variáveis a principio, como marca e memória, e posteriomente análises envolvendo especificações técnicas (memória, processador, armazenamento), softwares incluídos e acessórios adicionais. 
@@ -56,9 +56,7 @@ A partir de consultas SQL, estruturei e interpretei os dados para entender a rel
 
 <img width="1385" height="746" alt="image" src="https://github.com/user-attachments/assets/0211fd8a-e64d-49cc-afaf-e3587a906df6" />
 
-
-
-
+---
 
 ### Python
 
